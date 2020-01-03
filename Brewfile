@@ -30,7 +30,7 @@ cask 'google-chrome'
 cask 'firefox'
 
 cask 'postgres'
-cask 'redis-app'
+# cask 'redis-app'
 cask 'postico'
 
 cask 'sourcetree'
