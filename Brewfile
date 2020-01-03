@@ -1,5 +1,5 @@
 tap 'heroku/brew'
-tap 'caskroom/fonts'
+tap 'homebrew/cask-fonts'
 tap "puma/puma"
 
 brew 'mas'
