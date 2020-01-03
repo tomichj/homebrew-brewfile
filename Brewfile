@@ -57,7 +57,7 @@ cask 'ngrok'
 
 cask 'skype'
 cask 'slack'
-casl 'signal'
+cask 'signal'
 
 cask 'vlc'
 cask 'mplayerx'
