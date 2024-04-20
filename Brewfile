@@ -3,8 +3,8 @@
 #tap "puma/puma"
 
 brew 'mas'
-brew 'bash'
-brew 'bash-completion'
+#brew 'bash'
+#brew 'bash-completion'
 brew 'git'
 brew 'hub'
 brew 'openssl'
@@ -38,11 +38,12 @@ cask 'github'
 cask 'diffmerge'
 
 #cask 'alfred'
+cask 'raycast'
 cask 'hazel'
 cask 'keyboard-maestro'
 cask 'karabiner-elements'
 
-cask 'dropbox'
+#cask 'dropbox'
 cask '1password'
 cask 'flux'
 cask 'superduper'
@@ -55,9 +56,9 @@ cask 'downie'
 cask 'betterzip'
 cask 'ngrok'
 
-cask 'skype'
+#cask 'skype'
 cask 'slack'
-cask 'signal'
+#cask 'signal'
 
 cask 'vlc'
 cask 'mplayerx'
