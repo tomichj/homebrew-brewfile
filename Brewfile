@@ -1,13 +1,7 @@
-#tap 'heroku/brew'
-#tap 'homebrew/cask-fonts'
-#tap "puma/puma"
-
+brew 'openssl'
 brew 'mas'
-#brew 'bash'
-#brew 'bash-completion'
 brew 'git'
 brew 'hub'
-brew 'openssl'
 brew 'gnutls'
 brew 'tree'
 brew 'coreutils'
@@ -18,25 +12,28 @@ brew 'imagemagick'
 brew 'libyaml' # after openssl
 brew 'the_silver_searcher'
 
+# dev tools
 brew 'rbenv'
 brew 'ruby-build'
-
 cask 'postgres'
 cask 'postico'
 cask 'postman'
 cask 'github'
 cask 'diffmerge'
-cask 'ngrok'
-cask 'sloth'
 cask 'xcodes'
 
+# network tools
 cask 'private-internet-access'
 cask 'little-snitch'
+cask 'ngrok'
+cask 'sloth'
 
+# browsers
 cask 'google-chrome'
 cask 'firefox'
 cask 'brave-browser'
 
+# utilities
 cask 'raycast'
 cask 'hazel'
 cask 'keyboard-maestro'
@@ -50,29 +47,30 @@ cask 'airserver'
 cask 'colorsnapper'
 cask 'soundsource'
 cask 'whichspace'
-
 cask 'shortcutdetective'
 cask 'the-unarchiver'
 cask 'betterzip'
 cask '1password'
 cask 'downie'
 cask 'typinator'
+cask 'omnidisksweeper'
 
+# communication
 cask 'slack'
 cask 'discord'
 cask 'zoom'
 
+# media
 cask 'vlc'
 cask 'mplayerx'
 cask 'plex'
 cask 'plex-media-server'
 cask 'air-video-server-hd'
 
+# text
 cask 'bbedit'
 cask 'visual-studio-code'
 cask 'obsidian'
-cask 'omnidisksweeper'
-
 
 cask 'font-jetbrains-mono'
 #cask 'font-inconsolata'
