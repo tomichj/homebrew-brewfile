@@ -52,8 +52,13 @@ cask 'the-unarchiver'
 cask 'betterzip'
 cask '1password'
 cask 'downie'
-cask 'typinator'
 cask 'omnidisksweeper'
+cask 'typinator'
+
+# text
+cask 'bbedit'
+cask 'visual-studio-code'
+cask 'obsidian'
 
 # communication
 cask 'slack'
@@ -66,11 +71,6 @@ cask 'mplayerx'
 cask 'plex'
 cask 'plex-media-server'
 cask 'air-video-server-hd'
-
-# text
-cask 'bbedit'
-cask 'visual-studio-code'
-cask 'obsidian'
 
 cask 'font-jetbrains-mono'
 #cask 'font-inconsolata'
