@@ -12,7 +12,7 @@ brew 'imagemagick'
 brew 'libyaml' # after openssl
 brew 'the_silver_searcher'
 
-# dev tools
+# dev
 brew 'rbenv'
 brew 'ruby-build'
 cask 'postgres'
@@ -22,7 +22,7 @@ cask 'github'
 cask 'diffmerge'
 cask 'xcodes'
 
-# network tools
+# network
 cask 'private-internet-access'
 cask 'little-snitch'
 cask 'ngrok'
@@ -56,6 +56,7 @@ cask 'omnidisksweeper'
 cask 'typinator'
 
 # text
+brew 'emacs'
 cask 'bbedit'
 cask 'visual-studio-code'
 cask 'obsidian'
