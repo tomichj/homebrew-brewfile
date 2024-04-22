@@ -14,6 +14,7 @@ brew 'the_silver_searcher'
 brew 'tmux'
 
 # dev
+brew 'shellcheck'
 brew 'rbenv'
 brew 'ruby-build'
 cask 'postgres'
