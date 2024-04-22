@@ -11,6 +11,7 @@ brew 'spark'
 brew 'imagemagick'
 brew 'libyaml' # after openssl
 brew 'the_silver_searcher'
+brew 'tmux'
 
 # dev
 brew 'rbenv'
