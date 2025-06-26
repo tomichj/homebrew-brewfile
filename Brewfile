@@ -98,6 +98,7 @@ cask "webpquicklook"
 cask "whichspace"
 cask "xcodes-app"
 cask "zoom"
+cask "keyboard-maestro"
 mas "1Password for Safari", id: 1569813296
 mas "Actions", id: 1586435171
 mas "Byword", id: 420212497
