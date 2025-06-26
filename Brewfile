@@ -1,4 +1,3 @@
-tap "homebrew/bundle"
 brew "freetype"
 brew "gettext"
 brew "glib"
@@ -15,7 +14,7 @@ brew "go"
 brew "guile"
 brew "handbrake", link: false
 brew "hub"
-brew "imagemagick@6", link: true
+#brew "imagemagick@6", link: true
 brew "jq"
 brew "libgpg-error"
 brew "python@3.12"
@@ -24,7 +23,7 @@ brew "libheif"
 brew "mas"
 brew "nghttp2"
 brew "node"
-brew "openssl@1.1"
+#brew "openssl@1.1"
 brew "pinentry-mac"
 brew "python@3.9"
 brew "ruby-build"
@@ -76,7 +75,7 @@ cask "plex"
 cask "plex-media-server"
 cask "postico"
 cask "postman"
-cask "private-internet-access"
+#cask "private-internet-access"
 cask "quickjson"
 cask "quicklook-json"
 cask "raycast"
@@ -114,7 +113,7 @@ mas "Hyperduck", id: 6444667067
 mas "Hyperspace", id: 6739505345
 mas "IceCubesApp", id: 6444915884
 mas "Keynote", id: 409183694
-mas "Logoist 2", id: 905654078
+#mas "Logoist 2", id: 905654078
 mas "Mouse Pro", id: 6670465634
 mas "Mpix", id: 1282488470
 mas "Name Mangler 3", id: 603637384
@@ -123,7 +122,7 @@ mas "Numbers", id: 409203825
 mas "Okta Verify", id: 490179405
 mas "Pages", id: 409201541
 mas "Pastel", id: 413897608
-mas "Pixelmator", id: 407963104
+#mas "Pixelmator", id: 407963104
 mas "Pixelmator Pro", id: 1289583905
 mas "Play", id: 1596506190
 mas "Reeder", id: 1529448980
