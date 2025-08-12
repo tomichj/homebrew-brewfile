@@ -39,12 +39,12 @@ brew "zsh"
 brew "zsh-completions"
 cask "1password"
 cask "alfred"
-cask "amethyst"
+#cask "amethyst"
 cask "applite"
 cask "avifquicklook"
-cask "bartender"
+#cask "bartender"
 cask "bbedit"
-cask "brave-browser"
+#cask "brave-browser"
 cask "chatgpt"
 cask "cleanshot"
 cask "daisydisk"
@@ -59,7 +59,7 @@ cask "font-jetbrains-mono"
 cask "font-source-code-pro"
 cask "handbrake-app"
 cask "iina"
-cask "istat-menus"
+#cask "istat-menus"
 cask "iterm2"
 cask "itsycal"
 cask "karabiner-elements"
@@ -67,7 +67,7 @@ cask "keka"
 cask "latest"
 cask "little-snitch"
 cask "maccy"
-cask "minecraft"
+#cask "minecraft"
 cask "moom"
 cask "obsidian"
 cask "omnidisksweeper"
@@ -137,7 +137,6 @@ mas "Templates for Swift", id: 1551475309
 mas "TestFlight", id: 899247664
 mas "Things", id: 904280696
 mas "Transporter", id: 1450874784
-mas "Twitter", id: 1482454543
 mas "Userscripts", id: 1463298887
 mas "Vinegar", id: 1591303229
 mas "Wipr", id: 1662217862
